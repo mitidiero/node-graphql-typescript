@@ -22,7 +22,7 @@
     "awesome-typescript-loader": "5.2.1",
     "bcryptjs": "2.4.3",
     "cookie-parser": "1.4.4",
-    "express": "4.16.4",
+    "express": "4.19.2",
     "graphql-type-json": "0.3.0",
     "graphql-yoga": "1.18.3",
     "http-errors": "1.7.3",
